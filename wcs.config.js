@@ -1,6 +1,6 @@
 module.exports = {
   newComponent: {
     componentsPath: "src",
-    templatesPath: "src",
+    templatesPath:  "src/comp"
   },
 };
